@@ -16,6 +16,7 @@ I build custom websites, full-stack web applications and AI automation for busin
 | **DigitalKawach** | AI-based scam detection for SMS, calls, links and email. Flask API with LLM analysis and VirusTotal checks | [Website](https://digitalkawach.com) · [Code](https://github.com/Maffi-Devi/Digitalkawach) |
 | **EduTrack** | Student performance analyzer with GPA, PDF reports, admin analytics and an AI tutor (Flask, SQL) | [Live](https://maffi.pythonanywhere.com) · [Code](https://github.com/Maffi-Devi/EduTrack) |
 | **Sun Rise Sr. Sec. School** | Official website of a CBSE-affiliated school in Kaithal | [Live](https://maffi-devi.github.io/Sun-Rise-Sen-Sec-School-Website-/) · [Code](https://github.com/Maffi-Devi/Sun-Rise-Sen-Sec-School-Website-) |
+| **Zed-King Institute of Fire & Safety** | Institute website and SEO (ongoing client work) | [Live](https://zedkingfire.com) |
 | **Haryana Student Career Guide** | Bilingual (English and Hindi) career guidance tool for students | [Live](https://maffi-devi.github.io/Haryana-Student-Career-Guide/haryana-student-guide.html) · [Code](https://github.com/Maffi-Devi/Haryana-Student-Career-Guide) |
 
 ## Skills
@@ -32,6 +33,7 @@ I build custom websites, full-stack web applications and AI automation for busin
 
 - **Founder & Lead Developer**, A&N Web Services (Jan 2026 – present)
 - **AI Instructor**, Zed-King Group of Institutions (Jul 2024 – present)
+- **Digital & Social Media Manager**, Zed-King Group of Institutions (Jan 2023 – present)
 - **Programming & IoT Instructor**, Zed-King Group of Institutions (Jul 2022 – present)
 
 ## Contact
