@@ -20,7 +20,7 @@ I train machine learning models, build LLM agents that run in production every d
 
 | Project | What it does | Results |
 | --- | --- | --- |
-| **KrishiMitra**<br>[Live demo](https://nitubhall-krishimitra.static.hf.space) | Crop recommendation, leaf-disease detection from a photo and a Hindi/English farming chatbot. Models exported to TensorFlow.js and run in the browser | Crop: 7 classifiers compared, **99.5%** test accuracy<br>Leaf disease (19 classes): **91.1%** MobileNetV2 vs 74.6% custom CNN |
+| **KrishiMitra**<br>[Live demo](https://nitubhall-krishimitra.static.hf.space) · [Results](https://github.com/Maffi-Devi/KrishiMitra-AI-Farming-Assistant) | Crop recommendation, leaf-disease detection from a photo and a Hindi/English farming chatbot. Models exported to TensorFlow.js and run in the browser | Crop: 7 classifiers compared, **99.5%** test accuracy<br>Leaf disease (19 classes): **91.1%** MobileNetV2 vs 74.6% custom CNN |
 | **AI Blogging Agent**<br>[Blog](https://anwebservices.blogspot.com/) | Researches, writes and publishes one post a day for A&N Web Services. A rule validator and an independent AI editor fact-check every post; a failing post is not published | Running daily since **Oct 2026** on GitHub Actions |
 | **Multi-agent SEO Pipeline** | Topic, writer and SEO agents with live search data, publishing to Blogger, Dev.to, Hashnode and WordPress | **6** researched articles a day |
 | **DigitalKawach**<br>[Website](https://digitalkawach.com) · [Code](https://github.com/Maffi-Devi/Digitalkawach) | Scam detection for SMS, calls, links and email: rule engine, LLM analysis (Groq LLaMA) and VirusTotal URL reputation | Round 2, India AI Impact Buildathon 2026 (**40,000+** participants) |
@@ -48,7 +48,7 @@ I train machine learning models, build LLM agents that run in production every d
 - **Founder & Lead Developer**, A&N Web Services · Jan 2026 – present
 - **AI & Programming Instructor**, Zed-King Group of Institutions · Jul 2024 – present
 - **Programming & IoT Instructor**, Zed-King Group of Institutions · Jul 2022 – present
-- **MyGov Campus Ambassador**, Government of India · Nov 2026 – present
+- **MyGov Campus Ambassador**, Government of India · Sep 2026 – present
 
 ## Certifications
 
