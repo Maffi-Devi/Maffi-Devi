@@ -62,6 +62,16 @@ I train machine learning models, build LLM agents that run in production every d
 - **Sun Rise Sr. Sec. School, Kaithal:** 15-page CBSE school website with SEO and schema markup · [Live](https://sunriseschoolkaithal.in) · [Code](https://github.com/Sun-Rise-School-Kaithal/Sun-Rise-Sen-Sec-School-Website-)
 - **Zed-King Institute of Fire & Safety:** institute website and local SEO across 23 districts · [Live](https://zedkingfire.com)
 
+## Contribution activity
+
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Maffi-Devi/Maffi-Devi/output/snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Maffi-Devi/Maffi-Devi/output/snake-light.svg">
+    <img alt="Animation of a snake moving across the contribution graph" src="https://raw.githubusercontent.com/Maffi-Devi/Maffi-Devi/output/snake-dark.svg">
+  </picture>
+</p>
+
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f5cff,45:3b1d74,100:12091f&height=110&section=footer&animation=twinkling" alt="" width="100%">
 </p>
