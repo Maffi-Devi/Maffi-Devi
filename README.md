@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12091f,55:3b1d74,100:8f5cff&height=190&section=header&text=Maffi%20Bhall&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Machine%20Learning%20%26%20LLM%20Agents&descSize=17&descAlignY=58" alt="Maffi Bhall, AI Engineer, Machine Learning and LLM Agents" width="100%">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:12091f,55:3b1d74,100:8f5cff&height=190&section=header&text=Maffi%20Bhall&fontSize=50&fontColor=ffffff&fontAlignY=36&animation=fadeIn&desc=AI%20Engineer%20%C2%B7%20Machine%20Learning%20and%20LLM%20Agents&descSize=17&descAlignY=58" alt="Maffi Bhall, AI Engineer, Machine Learning and LLM Agents" width="100%">
 </p>
 
 <p align="center">
