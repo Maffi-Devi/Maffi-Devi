@@ -11,22 +11,22 @@
 
 I train machine learning models, build LLM agents that run in production every day, and ship the web apps around them. I run [A&N Web Services](https://www.anwebservice.com) and teach AI and programming at Zed-King Group of Institutions, Kaithal, India (2,000+ students since 2022).
 
-- 🔭 **Building now:** a Hinglish scam-message dataset and model for DigitalKawach, compared against an LLM on the same test set
-- 🌱 **Learning:** deep learning, RAG and AWS (AI Practitioner)
-- 🎓 MCA, Kurukshetra University · NIELIT A-Level (AI) · B.A. Mathematics
-- 🌏 Open to AI / ML / software engineer roles in Australia or remote
+- **Next up:** a Hinglish scam-message dataset and model for DigitalKawach, compared against an LLM on the same test set
+- **Learning:** deep learning, RAG and AWS (AI Practitioner)
+- **Education:** MCA, Kurukshetra University · NIELIT A-Level (AI) · B.A. Mathematics
+- **Open to:** AI, ML and software engineer roles in Australia or remote
 
-## 🤖 AI projects
+## AI projects
 
-| | Project | What it does | Results |
-| :---: | --- | --- | --- |
-| 🌱 | **KrishiMitra**<br>[Live demo](https://nitubhall-krishimitra.static.hf.space) | Crop recommendation, leaf-disease detection from a photo and a Hindi/English farming chatbot. Models exported to TensorFlow.js and run in the browser | Crop: 7 classifiers compared, **99.5%** test accuracy<br>Leaf disease (19 classes): **91.1%** MobileNetV2 vs 74.6% custom CNN |
-| ✍️ | **AI Blogging Agent**<br>[Blog](https://anwebservices.blogspot.com/) | Researches, writes and publishes one post a day for A&N Web Services. A rule validator and an independent AI editor fact-check every post; a failing post is not published | Running daily since **Oct 2026** on GitHub Actions |
-| 🔗 | **Multi-agent SEO Pipeline** | Topic, writer and SEO agents with live search data, publishing to Blogger, Dev.to, Hashnode and WordPress | **6** researched articles a day |
-| 🛡️ | **DigitalKawach**<br>[Website](https://digitalkawach.com) · [Code](https://github.com/Maffi-Devi/Digitalkawach) | Scam detection for SMS, calls, links and email: rule engine, LLM analysis (Groq LLaMA) and VirusTotal URL reputation | Round 2, India AI Impact Buildathon 2026 (**40,000+** participants) |
-| 📊 | **EduTrack**<br>[Live](https://maffi.pythonanywhere.com) · [Code](https://github.com/Maffi-Devi/EduTrack) | Student performance analyzer with GPA, targets, PDF reports, admin analytics and an AI tutor | Flask + SQL, deployed |
+| Project | What it does | Results |
+| --- | --- | --- |
+| **KrishiMitra**<br>[Live demo](https://nitubhall-krishimitra.static.hf.space) | Crop recommendation, leaf-disease detection from a photo and a Hindi/English farming chatbot. Models exported to TensorFlow.js and run in the browser | Crop: 7 classifiers compared, **99.5%** test accuracy<br>Leaf disease (19 classes): **91.1%** MobileNetV2 vs 74.6% custom CNN |
+| **AI Blogging Agent**<br>[Blog](https://anwebservices.blogspot.com/) | Researches, writes and publishes one post a day for A&N Web Services. A rule validator and an independent AI editor fact-check every post; a failing post is not published | Running daily since **Oct 2026** on GitHub Actions |
+| **Multi-agent SEO Pipeline** | Topic, writer and SEO agents with live search data, publishing to Blogger, Dev.to, Hashnode and WordPress | **6** researched articles a day |
+| **DigitalKawach**<br>[Website](https://digitalkawach.com) · [Code](https://github.com/Maffi-Devi/Digitalkawach) | Scam detection for SMS, calls, links and email: rule engine, LLM analysis (Groq LLaMA) and VirusTotal URL reputation | Round 2, India AI Impact Buildathon 2026 (**40,000+** participants) |
+| **EduTrack**<br>[Live](https://maffi.pythonanywhere.com) · [Code](https://github.com/Maffi-Devi/EduTrack) | Student performance analyzer with GPA, targets, PDF reports, admin analytics and an AI tutor | Flask + SQL, deployed |
 
-## 🧰 Tech stack
+## Tech stack
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=python,tensorflow,sklearn,opencv,r,flask,nodejs,js,ts,mysql,docker,githubactions,git,nextjs,html,css,arduino&perline=9&theme=dark" alt="Python, TensorFlow, scikit-learn, OpenCV, R, Flask, Node.js, JavaScript, TypeScript, MySQL, Docker, GitHub Actions, Git, Next.js, HTML, CSS, Arduino">
@@ -43,20 +43,24 @@ I train machine learning models, build LLM agents that run in production every d
   <img src="https://img.shields.io/badge/Search_Console-458cf5?style=flat-square&logo=googlesearchconsole&logoColor=white" alt="Search Console">
 </p>
 
-## 🌐 Client websites
+## Experience
 
-| Client | Work | Links |
-| --- | --- | --- |
-| **Sun Rise Sr. Sec. School, Kaithal** | 15-page CBSE school website: admissions, fees, faculty, gallery, mandatory disclosure. SEO and schema markup | [Live](https://sunriseschoolkaithal.in) · [Code](https://github.com/Sun-Rise-School-Kaithal/Sun-Rise-Sen-Sec-School-Website-) |
-| **Zed-King Institute of Fire & Safety** | Institute website and local SEO across 23 districts | [Live](https://zedkingfire.com) |
+- **Founder & Lead Developer**, A&N Web Services · Jan 2026 – present
+- **AI & Programming Instructor**, Zed-King Group of Institutions · Jul 2024 – present
+- **Programming & IoT Instructor**, Zed-King Group of Institutions · Jul 2022 – present
+- **MyGov Campus Ambassador**, Government of India · Nov 2026 – present
 
-## 💼 Experience
+## Certifications
 
-| Role | Where | When |
-| --- | --- | --- |
-| Founder & Lead Developer | A&N Web Services | Jan 2026 – present |
-| AI & Programming Instructor | Zed-King Group of Institutions | Jul 2024 – present |
-| Programming & IoT Instructor | Zed-King Group of Institutions | Jul 2022 – present |
+- Microsoft Applied Skills: Get started developing agents in Microsoft Foundry (2026)
+- Google Certified Educator, Level 2 (2026)
+- NIELIT Training of Trainers: Emerging Technologies
+- PTE Academic, overall 81
+
+## Client websites
+
+- **Sun Rise Sr. Sec. School, Kaithal:** 15-page CBSE school website with SEO and schema markup · [Live](https://sunriseschoolkaithal.in) · [Code](https://github.com/Sun-Rise-School-Kaithal/Sun-Rise-Sen-Sec-School-Website-)
+- **Zed-King Institute of Fire & Safety:** institute website and local SEO across 23 districts · [Live](https://zedkingfire.com)
 
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=0:8f5cff,45:3b1d74,100:12091f&height=110&section=footer&animation=twinkling" alt="" width="100%">
